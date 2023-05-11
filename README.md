@@ -7,4 +7,5 @@ Two players (online) are trying their best to create food. In order to complete 
 
 The main point of this project is to learn how to create multiplayer in Unity, so that the host and client can work properly, and everything that happens will be displayed on BOTH screens. C# scripts will be used.
 
-Showcase for 26.04: https://youtu.be/oF1mynxLuLc
+Showcase for 12.05: https://youtu.be/zlKXuH4yras
+Also added doc where I wrote down my progress. + explanations
